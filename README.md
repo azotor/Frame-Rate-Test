@@ -1,9 +1,11 @@
 # Frame Rate Test in PyGame
 
+<img src="splash.png" style="width:400px;">
+
 ## Run
-***
+```
 py run.py
-***
+```
 
 ## Controls
 - **Arrow UP** - increase FPS by 10
@@ -13,4 +15,3 @@ py run.py
 - **+/=** - increase radius by 10
 - **-/_** - decrease radius by 10
 - **SPACE** - reset settings
-

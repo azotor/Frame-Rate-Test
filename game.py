@@ -6,7 +6,7 @@ class Game:
     def __init__( self ):
         
         self.surf = pygame.display.set_mode( ( 800, 600 ) )
-        pygame.display.set_caption( "Gra" )
+        pygame.display.set_caption( "FPS TEST" )
         self.run = True
         self.clock = pygame.time.Clock()
         self.lastTime = pygame.time.get_ticks()
